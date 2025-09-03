@@ -3,7 +3,7 @@
 My Name is Ujjwal Nagar. I am currently pursuing my Bachelor in Environmental Science and Sustainability. 
 I am curious about how technology can aid in understanding and solving real-world environmental challenges.
 
-You can find more about me here:  [](https://ujjwalnagar.com)
+You can find more about me here:  [ujjwalnagar.com](https://ujjwalnagar.com)
 
 Here are some ideas to get you started:
 
@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything worth being curious about.
 - 🤔 I’m always looking for help. 
 - 💬 Ask me about anything.
-- 📫 How to reach me: [](theujjwalnagar@gmail.com)
+- 📫 How to reach me: [Email](theujjwalnagar@gmail.com)
 - ⚡ Fun fact: World is no fun without facts.
 
