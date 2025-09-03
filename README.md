@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything worth being curious about.
 - 🤔 I’m always looking for help. 
 - 💬 Ask me about anything.
-- 📫 How to reach me: [Email](theujjwalnagar@gmail.com)
+- 📫 How to reach me: [contact@ujjwalnagar.com](mailto:contact@ujjwalnagar.com)
 - ⚡ Fun fact: World is no fun without facts.
 
